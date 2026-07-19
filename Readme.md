@@ -100,9 +100,7 @@ I enjoy developing practical engineering projects that solve real-world problems
 <img src="https://img.shields.io/badge/Arduino_IDE-000000?style=for-the-badge&logo=arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/Keil_µVision-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/Embedded_Systems-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/IoT-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/VLSI-000000?style=for-the-badge"/>
+
 
 </div>
 
@@ -146,25 +144,6 @@ The project aims to improve safety at railway crossings, reduce human interventi
 5. The system confirms whether the gate is completely closed.
 6. The gate status is transmitted to the station master.
 7. After the train passes, the gate opens automatically.
-
----
-
-# 🌱 Mini Project
-
-## Automatic Plant Watering System
-
-A smart irrigation system that automatically supplies water to plants when required.
-
-The system helps reduce water wastage, saves time and minimizes the need for manual watering.
-
-### Key Features
-
-* Automatic watering
-* Soil-condition monitoring
-* Reduced water wastage
-* Simple and cost-effective design
-* Useful for gardens and small agricultural applications
-
 ---
 
 # 📚 Learning Journey
