@@ -1,7 +1,7 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,50:1A1A1A,100:333333&text=Nisarga%20Naik&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:A855F7&text=Nisarga%20Naik&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Electronics+Engineer;Electronics+and+Communication+Student;AI+%7C+IoT+%7C+Embedded+Systems;Python+and+C+Programmer;Learning+VLSI;Building+Innovative+Projects"/>
 
 <br/>
@@ -264,4 +264,5 @@ Career_Goals:
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,50:1A1A1A,100:333333"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,50:7C3AED,100:A855F7"/>
